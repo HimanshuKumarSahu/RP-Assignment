@@ -31,8 +31,8 @@ Refer these documents for development ○ https://developers.facebook.com/docs/m
 I did my best to complete this work in after work hours. There is a lot of room for improvement.
 
 # Stones left unturned
-Webhook - linking of the callback from facebook developer page to deployed server because of that chatting is not functional though the code is complete and only bugs are needed to be fixed.
-Comments fetching - I couldn't touch the comments part because of lack of time.
-Sending message - Coding and integration is done as well as the UI. Only webhook callback is stopping this.
-Chat - UI and coding done but not compatible on development mode as of now.
-Responsiveness - It's not using media queries as of now.
+1. Webhook - linking of the callback from facebook developer page to deployed server because of that chatting is not functional though the code is complete and only bugs are needed to be fixed.
+2. Comments fetching - I couldn't touch the comments part because of lack of time.
+3. Sending message - Coding and integration is done as well as the UI. Only webhook callback is stopping this.
+4. Chat - UI and coding done but not compatible on development mode as of now.
+5. Responsiveness - It's not using media queries as of now.
